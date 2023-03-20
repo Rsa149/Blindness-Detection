@@ -1,4 +1,4 @@
-# Blindness-Detection
+# Blindness-Detection.
 The Blindness Deducon Projec ocuses on creang a compuer-aided diagnosis sysem ha
 leverages Convoluonal Neural Nework (CNN) algorihms or he early deecon o Diabec
 Renopahy (DR), a leading cause o blindness among diabec paens. The projec involves he
